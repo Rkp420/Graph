@@ -106,15 +106,14 @@ public:
         return false;
     }
 };
-// Using BFS
+
+// Using BFS (Kanh's Algorithm)
 
 class Solution
 {
 public:
     bool isCyclic(int V, vector<vector<int>> &edges)
     {
-        // code here
-        // code here
         vector<vector<int>> adj(V);
 
         for (auto &edge : edges)
