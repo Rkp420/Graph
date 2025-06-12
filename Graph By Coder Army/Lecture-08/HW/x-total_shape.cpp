@@ -1,4 +1,7 @@
 #include <iostream>
+#include <vector>
+#include <queue>
+
 using namespace std;
 
 // https://www.geeksforgeeks.org/problems/x-total-shapes3617/1?page=2&difficulty%5B%5D=1&category%5B%5D=Graph&sortBy=submissions

@@ -1,4 +1,8 @@
 #include <iostream>
+#include <vector>
+#include <queue>
+#include <stack>
+
 using namespace std;
 
 // https://www.geeksforgeeks.org/problems/course-schedule/1?page=2&difficulty%5B%5D=1&category%5B%5D=Graph&sortBy=submissions

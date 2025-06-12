@@ -1,4 +1,7 @@
 #include <iostream>
+#include <vector>
+#include <queue>
+
 using namespace std;
 
 // https://www.geeksforgeeks.org/problems/number-of-provinces/1

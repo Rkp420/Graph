@@ -1,4 +1,6 @@
 #include <iostream>
+#include <vector>
+#include <queue>
 using namespace std;
 
 // https://www.geeksforgeeks.org/problems/covid-spread--141631/1

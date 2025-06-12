@@ -1,4 +1,7 @@
 #include <iostream>
+#include <vector>
+#include <queue>
+
 using namespace std;
 
 // https://www.geeksforgeeks.org/problems/rotten-oranges2536/1?page=1&difficulty%5B%5D=1&category%5B%5D=Graph&sortBy=submissions

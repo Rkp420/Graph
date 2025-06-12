@@ -1,4 +1,8 @@
 #include <iostream>
+#include <vector>
+#include <queue>
+#include <algorithm>
+
 using namespace std;
 
 // https://leetcode.com/problems/parallel-courses-iii/description/

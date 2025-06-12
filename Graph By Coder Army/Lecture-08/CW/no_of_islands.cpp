@@ -1,4 +1,6 @@
 #include <iostream>
+#include <vector>
+#include <queue>
 using namespace std;
 
 // https://www.geeksforgeeks.org/problems/find-the-number-of-islands/1

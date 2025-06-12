@@ -1,7 +1,4 @@
-#include <iostream>
-#include <unordered_map>
-#include <unordered_set>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 // https://leetcode.com/problems/course-schedule-iv/description/
@@ -117,6 +114,8 @@ public:
         return res;
     }
 };
+
+
 
 // Third Appraoch : Using Kanh's Algo
 class Solution
